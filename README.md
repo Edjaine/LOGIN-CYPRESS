@@ -1,5 +1,5 @@
 # LOGIN-CYPRESS
-
+Projeto template para criação de automação de testes no frontend com autenticação Microsoft já implementada
 
 ## Criar novos projetos
 
