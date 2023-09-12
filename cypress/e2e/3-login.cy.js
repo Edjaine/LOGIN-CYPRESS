@@ -1,4 +1,4 @@
-describe('Loga no Thunders', () => {
+describe('Loga no Aplicação', () => {
     beforeEach(() => cy.visit('/'))
     it('Deve logar logar com sucesso', () => {
         cy.get('[id=Username]').type(Cypress.env('USERNAME'));
